@@ -1,0 +1,32 @@
+npm i -g create-react app appname    --installed version
+  -node package module
+
+npx create-react-app appname         --latest version
+   -executes npm
+
+   npm start  - to run react
+
+
+React js
+---------
+
+-javascript library used for front-end creation of webapps
+
+-angular follows real DOM 
+   - when we change a small section of code re-renders the entire code
+-react folows virtual DOM
+   -when we change small portion of code re-render only that portion
+
+
+building blocks of angular   -- html css ts
+building blocks of react   -- html css js
+
+
+ two types of components
+ ------------------------
+ 1.class based
+
+ 2.function based 
+
+
+
